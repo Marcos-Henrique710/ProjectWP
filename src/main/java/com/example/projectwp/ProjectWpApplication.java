@@ -10,5 +10,5 @@ public class ProjectWpApplication {
     public static void main(String[] args) {
         SpringApplication.run(ProjectWpApplication.class, args);
     }
-    G
+
 }
