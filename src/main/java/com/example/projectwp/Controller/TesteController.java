@@ -1,4 +1,4 @@
-package com.example.projectwp.Controller;
+/*package com.example.projectwp.Controller;
 import jakarta.servlet.http.HttpServletRequest;
 import jakarta.servlet.http.HttpServletResponse;
 import org.springframework.web.bind.annotation.RequestMapping;
@@ -27,3 +27,4 @@ public class TesteController {
     }
 
 }
+*/
